@@ -1,6 +1,6 @@
 - 👋 Hi Everyone, I’m Diki Rahman, you can call me Diki 
 - 🎓 I am an active student, majoring in Informatics Engineering'22, UIN Suska Riau, Pekanbaru.
-- 👀 I’m interested in back-end web development
+- 👀 I’m interested in making apps that makes our lives easier
 - 📫 You can reach me at epicriki@gmail.com
 
 <!---
